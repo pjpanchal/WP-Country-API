@@ -1,0 +1,14 @@
+.pj_box{
+display: grid;
+grid-template-columns: max-content 1fr;
+grid-row-gap: 10px;
+grid-column-gap: 20px;
+}
+.pj_field{
+display: contents;
+}
+.meta-options{width: 100%}
+#pj_countryflag{display: none;}
+/*body.post-type-country #post-body-content{display: none;}*/
+.thumbImg{max-height: 150px; width: 100%; margin-bottom: 10px; }
+.cloader{position: absolute;background: rgba(255,255,255, 0.8);height: 100%;width: 98%;font-size: 3em;text-align: center;vertical-align: middle;display: none;}

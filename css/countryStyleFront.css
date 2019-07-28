@@ -1,0 +1,8 @@
+.countryBlock {border: 1px solid #CCC;
+box-shadow: 1px 1px 8px #ccc;
+padding: 14px;
+font-size: 14px;
+text-align: center;	
+margin-bottom: 30px;}
+.thumbImg img{height: 140px;width: 100%;margin-bottom: 30px;}
+.detailList{border-bottom: 1px solid #ccc;line-height: 30px;}
